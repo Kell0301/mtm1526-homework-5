@@ -1,0 +1,105 @@
+body { 
+font-size: 80%; 
+font-family: Tahoma, Geneva, sans-serif;
+background: #fff;  
+overflow: hidden;
+vertical-align:baseline;
+  
+}
+
+
+.clear{  
+	clear: both;  
+	height: 0;  
+	visibility: hidden;  
+	display: block;  
+}
+
+#container{  
+    margin: 7em auto;  
+    width: 600px; 
+	height: 600px;  
+}  
+
+#container ul.tabs li{  
+    float: left;  
+    margin-right: 5px;
+	  background: #099  
+}  
+#container ul.tabs li{  
+    font-weight: 700;  
+    display: block;  
+    padding: 5px 10px 5px 10px;
+	  background: #099  
+    
+  
+	  
+ 
+    position: relative;  
+    color: #898989;  
+    
+}
+
+#container ul.tabs li.active{  
+    background: #099;  
+    top: 1px;  
+    border-bottom: 0;   
+    color: #39F;  
+}  
+
+li:hover
+{ 
+cursor: pointer;
+}
+
+
+  
+ 
+
+ 
+.puppiez{  
+   
+	color: #C0C;
+	padding: 1em;
+	background-color: #099;
+	border: 1px solid #39F;
+	  
+}  
+  
+.lambz{  
+ 
+	color: #0C3;
+	padding: 1em;
+	background-color: #099;
+	border: 1px solid #39F;
+	  
+}  
+
+  
+.tarantulaz{  
+   background-color: #099;
+   padding: 1em;
+	border: 1px solid #39F;
+	color:#630; 
+}
+
+.kittenz {
+	background-color: #099;
+	padding: 1em;
+	border: 1px solid #39F;  
+}
+
+.fill-me {
+	padding-top: 19px;
+}
+
+
+
+
+
+
+
+
+
+
+
